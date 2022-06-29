@@ -20,7 +20,7 @@ Languages:
 
 # Overview 👀
 
-## View Complete Effect : ➡️ 
+## View Complete Effect : ➡️ https://sarah-jpro.github.io/Liberty-Glassmorphism/
 
 <p align="center">
  <img src="img\vue1.jpg" width="600">
